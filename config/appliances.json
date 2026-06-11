@@ -1,0 +1,14 @@
+{
+    "appliances": [
+        {"name": "LED Bulb", "typical_power_w": 10, "typical_current_a": 0.04, "usage_hours_per_day": 5},
+        {"name": "Fan", "typical_power_w": 75, "typical_current_a": 0.33, "usage_hours_per_day": 8},
+        {"name": "TV", "typical_power_w": 120, "typical_current_a": 0.52, "usage_hours_per_day": 4},
+        {"name": "Refrigerator", "typical_power_w": 150, "typical_current_a": 0.65, "usage_hours_per_day": 24},
+        {"name": "AC", "typical_power_w": 1500, "typical_current_a": 6.52, "usage_hours_per_day": 6},
+        {"name": "Water Heater", "typical_power_w": 2000, "typical_current_a": 8.70, "usage_hours_per_day": 2},
+        {"name": "Microwave", "typical_power_w": 1200, "typical_current_a": 5.22, "usage_hours_per_day": 0.5},
+        {"name": "Washing Machine", "typical_power_w": 800, "typical_current_a": 3.48, "usage_hours_per_day": 1},
+        {"name": "Laptop Charger", "typical_power_w": 65, "typical_current_a": 0.28, "usage_hours_per_day": 6},
+        {"name": "Phone Charger", "typical_power_w": 10, "typical_current_a": 0.04, "usage_hours_per_day": 3}
+    ]
+}

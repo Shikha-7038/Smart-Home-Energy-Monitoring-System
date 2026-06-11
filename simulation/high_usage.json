@@ -1,0 +1,13 @@
+{
+    "name": "High Usage Scenario",
+    "duration_seconds": 45,
+    "appliance_schedule": [
+        {"start_sec": 0, "end_sec": 45, "appliance": "AC", "quantity": 1},
+        {"start_sec": 0, "end_sec": 45, "appliance": "Water Heater", "quantity": 1},
+        {"start_sec": 10, "end_sec": 35, "appliance": "Microwave", "quantity": 1},
+        {"start_sec": 0, "end_sec": 45, "appliance": "TV", "quantity": 1},
+        {"start_sec": 0, "end_sec": 45, "appliance": "LED Bulb", "quantity": 5},
+        {"start_sec": 0, "end_sec": 45, "appliance": "Fan", "quantity": 3}
+    ],
+    "background_noise_amps": 0.1
+}

@@ -1,0 +1,19 @@
+{
+    "voltage_nominal": 230,
+    "voltage_min": 210,
+    "voltage_max": 250,
+    "current_min": 0.1,
+    "current_max": 15.0,
+    "power_threshold_warning": 500,
+    "power_threshold_critical": 1000,
+    "cost_per_kwh": 7.50,
+    "sampling_interval_ms": 1000,
+    "peak_hours_start": 18,
+    "peak_hours_end": 22,
+    "peak_hour_multiplier": 1.5,
+    "data_retention_days": 30,
+    "alert_email_enabled": false,
+    "alert_email": "your-email@example.com",
+    "csv_logging_enabled": true,
+    "dashboard_refresh_seconds": 2
+}

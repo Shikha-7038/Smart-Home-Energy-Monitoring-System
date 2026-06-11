@@ -1,0 +1,13 @@
+{
+    "name": "Normal Day Usage",
+    "duration_seconds": 60,
+    "appliance_schedule": [
+        {"start_sec": 0, "end_sec": 60, "appliance": "LED Bulb", "quantity": 3},
+        {"start_sec": 0, "end_sec": 60, "appliance": "Fan", "quantity": 2},
+        {"start_sec": 0, "end_sec": 30, "appliance": "TV", "quantity": 1},
+        {"start_sec": 20, "end_sec": 40, "appliance": "Refrigerator", "quantity": 1},
+        {"start_sec": 30, "end_sec": 50, "appliance": "Laptop Charger", "quantity": 1},
+        {"start_sec": 45, "end_sec": 60, "appliance": "Microwave", "quantity": 1}
+    ],
+    "background_noise_amps": 0.05
+}

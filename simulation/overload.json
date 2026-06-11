@@ -1,0 +1,13 @@
+{
+    "name": "Overload Condition",
+    "duration_seconds": 30,
+    "appliance_schedule": [
+        {"start_sec": 0, "end_sec": 30, "appliance": "AC", "quantity": 2},
+        {"start_sec": 0, "end_sec": 30, "appliance": "Water Heater", "quantity": 1},
+        {"start_sec": 0, "end_sec": 30, "appliance": "Microwave", "quantity": 1},
+        {"start_sec": 0, "end_sec": 30, "appliance": "Washing Machine", "quantity": 1},
+        {"start_sec": 0, "end_sec": 30, "appliance": "TV", "quantity": 2},
+        {"start_sec": 0, "end_sec": 30, "appliance": "LED Bulb", "quantity": 10}
+    ],
+    "background_noise_amps": 0.2
+}

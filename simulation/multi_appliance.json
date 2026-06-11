@@ -1,0 +1,15 @@
+{
+    "name": "Multiple Appliances - Daily Pattern",
+    "duration_seconds": 120,
+    "appliance_schedule": [
+        {"start_sec": 0, "end_sec": 15, "appliance": "Water Heater", "quantity": 1},
+        {"start_sec": 15, "end_sec": 35, "appliance": "Microwave", "quantity": 1},
+        {"start_sec": 35, "end_sec": 55, "appliance": "Washing Machine", "quantity": 1},
+        {"start_sec": 55, "end_sec": 75, "appliance": "TV", "quantity": 1},
+        {"start_sec": 55, "end_sec": 90, "appliance": "AC", "quantity": 1},
+        {"start_sec": 75, "end_sec": 100, "appliance": "Laptop Charger", "quantity": 2},
+        {"start_sec": 90, "end_sec": 110, "appliance": "LED Bulb", "quantity": 4},
+        {"start_sec": 100, "end_sec": 120, "appliance": "Phone Charger", "quantity": 3}
+    ],
+    "background_noise_amps": 0.08
+}

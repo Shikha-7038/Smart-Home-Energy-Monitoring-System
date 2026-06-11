@@ -1,0 +1,9 @@
+========================================
+ENERGY SUMMARY
+========================================
+
+Date: 2026-06-11
+Total Energy: 12.5 kWh
+Total Cost: Rs 93.75
+Peak Power: 1850 W
+Alerts: 8

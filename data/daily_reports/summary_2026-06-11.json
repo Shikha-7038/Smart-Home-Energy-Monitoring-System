@@ -1,0 +1,9 @@
+{
+  "date": "2026-06-11",
+  "total_energy_kwh": 12.5,
+  "total_cost_rs": 93.75,
+  "peak_power_w": 1850,
+  "alert_count": 8,
+  "monthly_projection_kwh": 375,
+  "monthly_projection_cost_rs": 2812.5
+}

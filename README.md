@@ -200,19 +200,6 @@ Formula	Description
 - Cost (₹) = Energy (kWh) × Rate (₹/kWh)	Electricity cost
 - Apparent Power (VA) = Voltage × Current	Total power delivered
 
-📊 Dashboard
-Main Dashboard Components
-Component	Description
-Live Metrics	Voltage, Current, Power, Power Factor
-Energy Tracking	Total Energy, Daily Energy, Total Cost
-Status Indicators	Normal/Warning/Critical states
-Active Appliances	Currently running appliances
-Alert Panel	Recent alerts and warnings
-Power Chart	Real-time power consumption graph
-Energy Chart	Cumulative energy over time
-Cost Chart	Running total cost
-Monthly Projection	Estimated monthly bill
-
 ## Dashboard Controls
 - Scenario Selection → Choose simulation scenario
 - Start Simulation → Begin selected scenario
@@ -221,8 +208,10 @@ Monthly Projection	Estimated monthly bill
 - Refresh Rate → 1-5 seconds interval
 
 ## 🛠️ Tech Stack
+
 Languages & Frameworks
 | Technology | Purpose | Version |
+| ---------- | ------- | ------- |
 | Python | Core logic, calculations | 3.9+ |
 | Streamlit | Web dashboard | 1.28+ |
 | Pandas | Data manipulation | 2.0+ |
@@ -233,6 +222,7 @@ Languages & Frameworks
 
 ## Development Tools
 | Tool | Purpose |
+| ---- | ------- |
 | VS Code | IDE |
 | Git | Version control |
 | GitHub | Repository hosting |
